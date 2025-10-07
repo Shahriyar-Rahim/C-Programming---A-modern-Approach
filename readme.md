@@ -108,7 +108,7 @@ This repository is solely for educational purposes. All solutions are my own imp
 
 Clone the repository:
 
-git clone https://github.com/YourUsername/C-Programming-Solutions.git
+git clone [https://github.com/YourUsername/C-Programming-Solutions.git](https://github.com/Shahriyar-Rahim/C-Programming---A-modern-Approach)
 
 
 Navigate to the chapter folder and run any C program using a C compiler:
